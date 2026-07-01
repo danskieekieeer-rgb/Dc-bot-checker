@@ -7,7 +7,6 @@ configparser
 concurrent-log-handler
 pysocks
 colorama
-os
 time
 threading
 random
