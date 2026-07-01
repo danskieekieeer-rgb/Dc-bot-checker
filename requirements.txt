@@ -7,14 +7,3 @@ configparser
 concurrent-log-handler
 pysocks
 colorama
-time
-threading
-random
-json
-uuid
-socket
-socks
-sys
-string
-traceback
-concurrent.features
