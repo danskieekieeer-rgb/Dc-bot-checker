@@ -6,3 +6,16 @@ urllib3
 configparser
 concurrent-log-handler
 pysocks
+colorama
+os
+time
+threading
+random
+json
+uuid
+socket
+socks
+sys
+string
+traceback
+concurrent.features
