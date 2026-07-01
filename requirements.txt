@@ -7,3 +7,4 @@ configparser
 concurrent-log-handler
 pysocks
 colorama
+console
